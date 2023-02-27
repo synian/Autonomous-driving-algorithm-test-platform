@@ -1,4 +1,4 @@
-This project provides an Apollo-based autonomous driving simulation platform[Baidu Apollo EM Motion Planner](/https://arxiv.org/pdf/1807.08048.pdf).
+This project provides an Apollo-based autonomous driving simulation platform [[Baidu Apollo EM Motion Planner](/https://arxiv.org/pdf/1807.08048.pdf)].
 The software version used in this project is: CarSim2019.0+PreScan8.3.0+MatlabR2021a
 
 
